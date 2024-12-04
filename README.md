@@ -1,2 +1,2 @@
 # Report
-Hack the box & Vulnhub Writeu-p
+Hack the box & Vulnhub Write-up
